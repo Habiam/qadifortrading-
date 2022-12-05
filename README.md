@@ -1,0 +1,2 @@
+# qadifortrading-
+For trading services 
